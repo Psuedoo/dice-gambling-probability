@@ -1,7 +1,7 @@
 from game import Game
 
 def test_rollable_die():
-    """" Checking to make sure each game is played with a new set of dice. """
+    """" Checks to ensure each game is played with a new set of dice. """
 
     test_game = Game(4)
 
